@@ -19,13 +19,13 @@ Sum = A’B+AB’ =A ⊕ B Carry = AB
 Full adder is a digital circuit used to calculate the sum of three binary bits. It consists of three inputs and two outputs. Two of the input variables, denoted by A and B, represent the two significant bits to be added. The third input, Cin, represents the carry from the previous lower significant position. Two outputs are necessary because the arithmetic sum of three binary digits ranges in value from 0 to 3, and binary 2 or 3 needs two digits. The two outputs are sum and carry.
 
 Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = AB + ACin + BCin
+![Screenshot 2023-11-27 202149](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/d6518644-5838-4710-994e-79275b5ff5c6)
 
- ![image](https://user-images.githubusercontent.com/36288975/163552156-a13e5a56-c638-4110-97d9-8896907c8d25.png)
 
 #### Figure -01 HALF ADDER 
 
 
-![image](https://user-images.githubusercontent.com/36288975/163552057-b3547877-6d07-45b4-b7e0-bcfebfad9e1d.png)
+![Screenshot 2023-11-27 202808](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/d50b187b-cc31-4a97-a14f-619539351765)
 
 #### Figure -02 FULL ADDER 
 
@@ -35,11 +35,13 @@ Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
-Program:
+Program:![Screenshot 2023-11-27 202129](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/0024c197-d306-457a-bc44-04ff9190d98b)
+![Screenshot 2023-11-27 202808](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/051c958b-fd98-4ca9-a44c-fa7e813c474f)
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: M.Deeraj
+RegisterNumber:23000244  
 */
 Logic symbol & Truthtable
 RTL realization
@@ -47,7 +49,9 @@ RTL realization
 ### Output:
 ### RTL
 ### TIMING DIAGRAM
+![Screenshot 2023-11-27 202335](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/8762232a-9e8d-4fc7-b528-65a98fe83899)
 
+![Screenshot 2023-11-27 203005](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/21d25e2f-3afc-4bab-b6db-6406c245ebac)
 
 ### TRUTH TABLE 
 
