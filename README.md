@@ -30,12 +30,12 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 #### Figure -02 FULL ADDER 
 
 ### Procedure
+Program:![Screenshot 2023-11-27 202129](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/0024c197-d306-457a-bc44-04ff9190d98b)     
 
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
-Program:![Screenshot 2023-11-27 202129](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/0024c197-d306-457a-bc44-04ff9190d98b)     
 
 ![Screenshot 2023-11-27 202808](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/051c958b-fd98-4ca9-a44c-fa7e813c474f)
 
