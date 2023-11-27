@@ -56,7 +56,8 @@ RTL realization
 ![Screenshot 2023-11-27 203005](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/21d25e2f-3afc-4bab-b6db-6406c245ebac)
 
 ### TRUTH TABLE 
-![WhatsApp Image 2023-11-27 at 20 38 18_f7f21cb5](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/2f81deb8-6b4d-41d4-9d47-67ae6b832288)
+![WhatsApp Image 2023-11-27 at 20 38 18_f7f21cb5](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/2f81deb8-6b4d-41d4-9d47-67ae6b832288)    
+
 ![WhatsApp Image 2023-11-27 at 20 37 32_345ee5db](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/bbd4d360-a409-4f81-b89b-1dd05f143844)
 
 ### Result:
