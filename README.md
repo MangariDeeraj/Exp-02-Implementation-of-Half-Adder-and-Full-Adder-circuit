@@ -60,4 +60,4 @@ RTL realization
 
 ![WhatsApp Image 2023-11-27 at 20 37 32_345ee5db](https://github.com/MangariDeeraj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365485/bbd4d360-a409-4f81-b89b-1dd05f143844)
 
-### Result:
+### Result:FUll and half adder logic diagram and truth tables 
